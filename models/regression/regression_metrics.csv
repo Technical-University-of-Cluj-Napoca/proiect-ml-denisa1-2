@@ -1,0 +1,6 @@
+Model,Best R^2 (CV)
+XGBoost Regressor,0.8459
+CatBoost Regressor,0.8455
+Explainable Boosting Regressor,0.8418
+Random Forest Regressor,0.8303
+Linear Regression,0.7237
